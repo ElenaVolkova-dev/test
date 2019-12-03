@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class MainTask
 {
+    //Приветствовать любого пользователя при вводе его имени через командную строку.
     public static void greeting()
     {
 
